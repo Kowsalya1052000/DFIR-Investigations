@@ -12,7 +12,10 @@ timeline reconstruction and MITRE ATT&CK mapping.
 
 | # | Case | Platform | Category | Status |
 |---|---|---|---|---|
-| 01 | TBD | CyberDefenders | Network Forensics | 🔄 In Progress |
+| 01 | ICMP Flood DoS Attack | Google Cybersecurity Course | Network/DoS | ✅ Complete |
+| 02 | DNS Port Unreachable | Google Cybersecurity Course | Network Forensics | ✅ Complete |
+| 03 | Python IP Allowlist Automation | Google Cybersecurity Course | Security Automation | ✅ Complete |
+| 04 | Contractor Account Exploitation | Google Cybersecurity Course | Access Control/IAM | ✅ Complete |
 
 ---
 
