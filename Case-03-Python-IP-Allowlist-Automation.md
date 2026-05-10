@@ -1,4 +1,5 @@
 Case 03 — Python Algorithm: Automated IP Allowlist Management
+---
 Analyst: Kowsalya  
 Date: May 2026  
 Language: Python 3  
