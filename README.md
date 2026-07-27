@@ -16,6 +16,7 @@ timeline reconstruction and MITRE ATT&CK mapping.
 | 02 | DNS Port Unreachable | Google Cybersecurity Course | Network Forensics | ✅ Complete |
 | 03 | Python IP Allowlist Automation | Google Cybersecurity Course | Security Automation | ✅ Complete |
 | 04 | Contractor Account Exploitation | Google Cybersecurity Course | Access Control/IAM | ✅ Complete |
+| 05 | Automated Traffic Sampling & Forensics (`tcpdump`) | Coursera / IBM DFIR | Network Forensics | ✅ Complete |
 
 ---
 
