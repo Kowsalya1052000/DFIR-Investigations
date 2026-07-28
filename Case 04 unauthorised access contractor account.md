@@ -1,4 +1,4 @@
-Case 04 — Unauthorised Access: Contractor Account Exploitation
+Case 03 — Unauthorised Access: Contractor Account Exploitation
 ---
 Analyst: Kowsalya  
 Date: May 2026  
