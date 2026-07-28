@@ -1,10 +1,8 @@
-# DFIR Investigations 🔍
+# Cyber Security - Attack Investigations 🔍
 
-Hands-on Digital Forensics & Incident Response 
-case investigations.
+Hands-on Cyber Security case investigations.
 
-Each case documents evidence analysis, findings, 
-timeline reconstruction and MITRE ATT&CK mapping.
+Each case documents evidence analysis, findings, timeline reconstruction and MITRE ATT&CK mapping.
 
 ---
 
@@ -14,9 +12,8 @@ timeline reconstruction and MITRE ATT&CK mapping.
 |---|---|---|---|---|
 | 01 | ICMP Flood DoS Attack | Google Cybersecurity Course | Network/DoS | ✅ Complete |
 | 02 | DNS Port Unreachable | Google Cybersecurity Course | Network Forensics | ✅ Complete |
-| 03 | Python IP Allowlist Automation | Google Cybersecurity Course | Security Automation | ✅ Complete |
-| 04 | Contractor Account Exploitation | Google Cybersecurity Course | Access Control/IAM | ✅ Complete |
-| 05 | Automated Traffic Sampling & Forensics (`tcpdump`) | Coursera / IBM DFIR | Network Forensics | ✅ Complete |
+| 03 | Contractor Account Exploitation | Google Cybersecurity Course | Access Control/IAM | ✅ Complete |
+| 04 | Automated Traffic Sampling & Forensics (`tcpdump`) | Coursera | Network Forensics | ✅ Complete |
 
 ---
 
@@ -34,8 +31,7 @@ timeline reconstruction and MITRE ATT&CK mapping.
 ## Tools Used
 - Wireshark
 - Splunk
-- Wazuh
-- Autopsy
-- Volatility 3
+- tcpdump
+- linux
 - VirusTotal
 - MITRE ATT&CK Navigator
