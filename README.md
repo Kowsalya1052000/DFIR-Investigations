@@ -1,4 +1,4 @@
-# Cyber Security - Attack Investigations 🔍
+# Cyber Security Attack Investigations 🔍
 
 Hands-on Cyber Security case investigations.
 
